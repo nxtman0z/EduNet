@@ -93,7 +93,6 @@ Contributions are welcome! 🚀
 ---
 
 ## 📬 Contact
-For any queries or collaboration, please open an **issue** in this repository. and contact nxtman0z
- 
-
----
+For any queries or collaboration:  
+- Open an **issue** in this repository  
+- For more information, contact **[nxtman0z](https://github.com/nxtman0z)** on GitHub
